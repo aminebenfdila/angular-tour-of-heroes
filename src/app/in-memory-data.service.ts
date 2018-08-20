@@ -12,7 +12,7 @@ export class InMemoryDataService {
       { id: 19, name: 'Magma' },
       { id: 20, name: 'Tornado'} 
            
-      { id: 21, name: 'Antoine'},
+      { id: 21, name: 'Antoine'}
     ];
     return { heroes };
   }
